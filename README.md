@@ -38,7 +38,6 @@ batcha.html
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>Surface Area of Right Cylinder</title>
-<title>HARIHARAN A(212223110013)</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body
